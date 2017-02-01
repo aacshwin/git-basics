@@ -1,2 +1,4 @@
 git testing in local 1:51 AM 2/1/2017 
 test line 2:02 AM 2/1/2017
+
+added this line to check the frature git add -p
